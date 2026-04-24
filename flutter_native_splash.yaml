@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#000000" # Matches your dark theme
+  image: assets/ic_instagram_logo.png # Your high-res logo
+  
+  # Crucial for modern Android 12+ devices
+  android_12:
+    color: "#000000"
+    image: assets/ic_instagram_logo.png
+    
+  fullscreen: true
